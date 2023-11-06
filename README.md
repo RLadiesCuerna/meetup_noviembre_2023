@@ -5,18 +5,18 @@
 
 En este meetup aprenderemos:
 
-- 
-- 
+- La creación de heatmaps con varias librerías de R
+- Procesos de clusterización
 
 
 ## Fecha 
 
-Jueves 09 de noviembre de 2023
+Jueves 16 de noviembre de 2023
 
 
 ## Instructora
 
-- Dra. Ernestina Godoy Lozano
+- Dra. E. Ernestina Godoy Lozano
 
 
 ## Materiales
