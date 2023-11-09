@@ -40,15 +40,15 @@ ggplot2, gplots, vegan, reshape2, circlize, ComplexHeatmap, Heatplus
 
 Pueden instalarlas con las siguientes instrucciones: 
 
-install.packages("ggplot2")
-install.packages("gplots")
-install.packages("vegan")
-install.packages("reshape2")
-install.packages("circlize")
-if (!requireNamespace("BiocManager", quietly=TRUE))
+- install.packages("ggplot2")
+- install.packages("gplots")
+- install.packages("vegan")
+- install.packages("reshape2")
+- install.packages("circlize")
+- if (!requireNamespace("BiocManager", quietly=TRUE))
   install.packages("BiocManager")
-BiocManager::install("ComplexHeatmap")
-BiocManager::install("Heatplus")
+- BiocManager::install("ComplexHeatmap")
+- BiocManager::install("Heatplus")
 
 
 ## Código de Conducta
