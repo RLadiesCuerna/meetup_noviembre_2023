@@ -16,7 +16,10 @@ Jueves 16 de noviembre de 2023
 
 ## Instructora
 
-- Dra. E. Ernestina Godoy Lozano
+- Dra. E. Ernestina Godoy Lozano (elizabeth.godoy@insp.mx)
+- Sobre la Instructora:
+    - Es la jefa del Departamento de Bioinformática en Enfermedades Infecciosas del Instituto Nacional de Salud Pública
+    - Sus líneas de investigación son análisis del repertorio de anticuerpos en condiciones de salud, enfermedad y vacunación, la genómica comparativa de aislados clínicos de importancia en la salud pública, así como Metagenómica aplicada a enfermedades infecciosas.      
 
 
 ## Materiales
