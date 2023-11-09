@@ -35,6 +35,22 @@ Para aprovechar al máximo este Meetup, se recomienda tener conocimientos básic
 + Tener instalado R >= 4.0
 + Tener instalado RStudio >= 1.4
 
+## Librerías instaladas
+ggplot2, gplots, vegan, reshape2, circlize, ComplexHeatmap, Heatplus
+
+Pueden instalarlas con las siguientes instrucciones: 
+
+install.packages("ggplot2")
+install.packages("gplots")
+install.packages("vegan")
+install.packages("reshape2")
+install.packages("circlize")
+if (!requireNamespace("BiocManager", quietly=TRUE))
+  install.packages("BiocManager")
+BiocManager::install("ComplexHeatmap")
+BiocManager::install("Heatplus")
+
+
 ## Código de Conducta
 
 Recuerda leer y atender nuestro código de conducta disponible en https://rladies.org/code-of-conduct/ o https://rladiesmx.netlify.app/codigo_de_conducta/
